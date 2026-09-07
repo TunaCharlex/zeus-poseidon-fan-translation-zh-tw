@@ -12,7 +12,7 @@ AI 輔助翻譯的免費、部分繁體中文化補丁，適用於Steam版本。
 
 ## 下載
 
-前往 [Releases](https://github.com/TunaCharlex/zeus-poseidon-fan-translation-zh-tw/releases)，下載附加檔案 `Zeus-ZH-0.1.0-rc9-steam-Clean.zip`。
+前往 [Releases](https://github.com/TunaCharlex/zeus-poseidon-fan-translation-zh-tw/releases)，下載最新的壓縮檔。
 
 ## 相容性與完成範圍
 
@@ -24,8 +24,8 @@ AI 輔助翻譯的免費、部分繁體中文化補丁，適用於Steam版本。
 ## 安裝
 
 1. 關閉遊戲，先備份遊戲與存檔。
-2. 解壓縮，將整個 `Zeus-ZH-0.1.0-rc9-steam` 資料夾放入遊戲根目錄。
-3. 確認位置為 `Zeus + Poseidon/Zeus-ZH-0.1.0-rc9-steam/Install.cmd`，上一層應有 `Zeus.exe`。
+2. 解壓縮，將整個 `Zeus-ZH-0.1.0-rc(版本號)-steam` 資料夾放入遊戲根目錄。
+3. 確認位置為 `Zeus + Poseidon/Zeus-ZH-0.1.0-rc(版本號)-steam/Install.cmd`，上一層應有 `Zeus.exe`。
 4. 執行 `Check.cmd`，通過後執行 `Install.cmd`，完成後再啟動遊戲。若存取被拒，可用系統管理員身分執行。
 
 ## 還原與更新
