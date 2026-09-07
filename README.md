@@ -12,7 +12,7 @@ AI 輔助翻譯的免費、部分繁體中文化補丁，適用於Steam版本。
 
 ## 下載
 
-前往 [Releases](https://github.com/TunaCharlex/zeus-poseidon-fan-translation-zh-tw/releases)，下載最新的壓縮檔。
+前往 [Releases](https://github.com/TunaCharlex/zeus-poseidon-fan-translation-zh/releases)，下載最新的壓縮檔。
 
 ## 相容性與完成範圍
 
@@ -32,7 +32,7 @@ AI 輔助翻譯的免費、部分繁體中文化補丁，適用於Steam版本。
 
 關閉遊戲後執行本版本的 `Restore.cmd`，即可還原安裝前的 Steam 英文檔案。
 
-請保留遊戲根目錄的 `Zeus-ZH-Backup-Steam-0.1` 原始備份。
+請保留遊戲根目錄的自動產生的原始備份。
 
 ## 聲明
 
